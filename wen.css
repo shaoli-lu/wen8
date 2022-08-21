@@ -130,6 +130,6 @@ iframe {
     -ms-animation: rotating 4s linear infinite;
     -o-animation: rotating 4s linear infinite;
     animation: rotating 4s linear infinite;
-    fill: green;
+    fill: #990026;
     font-weight: 50;
   }
